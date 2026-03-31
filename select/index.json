@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Tears of the Moon",
+  "base_artist": "Blue Journey",
+  "createdAt": "2026-03-31T10:33:51.995021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tears of the Moon",
+      "artist": "Blue Journey",
+      "has_synced": true,
+      "path": "select/01_Tears_of_the_Moon_Blue_Journey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tears Of The Gods",
+      "artist": "Apollo 440",
+      "has_synced": true,
+      "path": "select/02_Tears_Of_The_Gods_Apollo_440.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tears Of The Dragon",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/03_Tears_Of_The_Dragon_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tears of the Dragon",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/04_Tears_of_the_Dragon_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tears Of The Dead",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/05_Tears_Of_The_Dead_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Unseen Tears Of The Albacore",
+      "artist": "The Vandals",
+      "has_synced": true,
+      "path": "select/06_The_Unseen_Tears_Of_The_Albacore_The_Vandals.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unseen Tears of the Albacore",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/07_Unseen_Tears_of_the_Albacore_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tears Of The World",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/08_Tears_Of_The_World_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tears of the Dragon (2001 Remastered Version)",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/09_Tears_of_the_Dragon_(2001_Remastered_Version)_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tears of the Dragon - Acoustic Chillout; 2001 Remastered Version",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/10_Tears_of_the_Dragon_-_Acoustic_Chillout;_2001_Remastered_Version_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tears of the Dragon (Acoustic Chillout; 2001 Remastered Version)",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/11_Tears_of_the_Dragon_(Acoustic_Chillout;_2001_Remastered_Version)_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tears of the Dragon (First Bit, Long Bit, Last Bit) - 2001 Remastered Version",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/12_Tears_of_the_Dragon_(First_Bit,_Long_Bit,_Last_Bit)_-_2001_Remastered_Version_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tears of the Dragon (First Bit, Long Bit, Last Bit) (2001 Remastered Version)",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/13_Tears_of_the_Dragon_(First_Bit,_Long_Bit,_Last_Bit)_(2001_Remastered_Version)_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bass Intro / Tears Of The Dead (live In Japan 1999)",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/14_Bass_Intro___Tears_Of_The_Dead_(live_In_Japan_1999)_Arch_Enemy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tears Of Joy",
+      "artist": "Wendy & Lisa",
+      "has_synced": true,
+      "path": "select/15_Tears_Of_Joy_Wendy_&_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tears of Rage",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/16_Tears_of_Rage_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tears of Rage",
+      "artist": "The Band",
+      "has_synced": false,
+      "path": "select/17_Tears_of_Rage_The_Band.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tears Of A Guy",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/18_Tears_Of_A_Guy_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Tears of a Clown",
+      "artist": "The Miracles",
+      "has_synced": false,
+      "path": "select/19_The_Tears_of_a_Clown_The_Miracles.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Tears of a Clown",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/20_Tears_of_a_Clown_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Tears of Time - Live",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/21_Tears_of_Time_-_Live_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Tears of Time",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/22_Tears_of_Time_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Tears of Time",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/23_Tears_of_Time_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Tears of Time (Deutsche Version)",
+      "artist": "Crematory",
+      "has_synced": false,
+      "path": "select/24_Tears_of_Time_(Deutsche_Version)_Crematory.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Tears of Time (live)",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/25_Tears_of_Time_(live)_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Tears of Pain",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/26_Tears_of_Pain_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Tears of Sorrow",
+      "artist": "Thy Majestie",
+      "has_synced": false,
+      "path": "select/27_Tears_of_Sorrow_Thy_Majestie.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Tears of a Dying Angel",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/28_Tears_of_a_Dying_Angel_Rhapsody.lrc"
+    }
+  ]
+}
